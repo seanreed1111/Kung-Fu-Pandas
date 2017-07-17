@@ -1,5 +1,5 @@
 '''
-This program ask =s the user for his/her name and then
+This program asks the user for his/her name and then
 responds with a message saying hello to the user
 '''
 def hello():
