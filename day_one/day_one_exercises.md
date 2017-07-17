@@ -25,7 +25,7 @@ Write a program that reads the lengths of 3 sides of a triangle from the user.
 Display a message indicating the type of the triangle.
 
 Exercise 6: 
-Write a Python program to construct the following pattern, using a nested for loop.
+Write  Python program to construct the following pattern, using a nested for loop.
 ```
 * 
 * * 
