@@ -18,7 +18,7 @@ Exercise 4:
 In this exercise you will create a program that reads a letter of the alphabet from the user. If the user enters a, e, i, o or u then your program should display a message indicating that the entered letter is a vowel. If the user enters y then your program should display a message indicating that sometimes y is a vowel, and sometimes y is a consonant. Otherwise your program should display a message indicating that the
 letter is a consonant.
 
-Exercise 5: 
+Exercise 5: hhh
 A triangle can be classified based on the lengths of its sides as equilateral, isosceles or scalene. All 3 sides of an equilateral triangle have the same length. An isosceles triangle has two sides that are the same length, and a third side that is a different
 length. If all of the sides have different lengths then the triangle is scalene.
 Write a program that reads the lengths of 3 sides of a triangle from the user.
