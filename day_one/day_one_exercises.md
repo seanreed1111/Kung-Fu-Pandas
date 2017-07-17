@@ -26,7 +26,7 @@ Display a message indicating the type of the triangle.
 
 Exercise 6: 
 Write a Python program to construct the following pattern, using a nested for loop.
-
+```
 * 
 * * 
 * * * 
@@ -36,7 +36,7 @@ Write a Python program to construct the following pattern, using a nested for lo
 * * * 
 * * 
 *
-
+```
 Exercise 7: 
 This exercise examines the process of identifying the maximum value in a collection of integers. Each of the integers will be randomly selected from the numbers between 1 and 100. The collection of integers may contain duplicate values, and some of the
 integers between 1 and 100 may not be present.
