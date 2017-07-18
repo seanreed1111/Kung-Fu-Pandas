@@ -1,9 +1,10 @@
-def integer():
-	number = input("Enter a number: ")
-	integer = nuumber % 2
-	if integer > 0:
+def integer_1():
+	number= int(input("Enter a number: "))
+	integer_2= number%2
+	if integer_2>0:
 		print("This is an odd number")
 	else:
 		print("This is an even number")
 
-integer()
+
+integer_1()
